@@ -1,0 +1,8 @@
+*
+!dist
+!package.json
+!README.md
+!LICENSE
+.DS_Store
+.npmrc
+.npmignore
